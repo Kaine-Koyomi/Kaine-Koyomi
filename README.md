@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Game Design and Back-end
-- 🌱 I’m currently learning Ruby, Flutter 
+- 🌱 I’m currently learning Ruby, Dart
 - 📫 contact me: mauricio.ribeiro.sd@gmail.com
 
 ##

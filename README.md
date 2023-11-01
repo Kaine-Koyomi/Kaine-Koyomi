@@ -2,7 +2,7 @@
 
 
 - 👀 I’m interested in Game Design and Back-end
-- 🌱 I’m currently learning Java and Ruby
+- 🌱 I’m currently learning Java and C++
 - 📫 contact me: mauricio.ribeiro.sd@gmail.com
 
 ##
